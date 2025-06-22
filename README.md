@@ -134,7 +134,7 @@ Monitoring the training process. The bottom right shows the evaluation metrics o
 
 ![Retail Forecast Spike](looker.png)
 
-In the forecasted results, we observe a spike in retail activity towards the **end of November**, consistent with patterns seen in both 2017 and 2018. A web search confirms that many consumers consider **December 1** the informal deadline for purchasing Christmas gifts. This aligns with the sales peak captured by ARIMA_PLUS, validating the model’s ability to detect seasonal retail behavior.
+In the forecasted results, we observe a spike in retail activity towards the **end of November**, consistent with patterns seen in both 2017 and 2018. A web search confirms that many consumers consider **December 1** the informal deadline for purchasing Black Friday and Christmas gifts. This aligns with the sales peak captured by ARIMA_PLUS, validating the model’s ability to detect seasonal retail behavior.
 
 ---
 
